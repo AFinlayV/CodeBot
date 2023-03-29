@@ -7,9 +7,9 @@
         "presence_penalty": 0
     },
     "system_prompt": "You are an AI programming assistant\n\nImportant instructions:\n• Follow the user's requirements carefully & to the letter.\n• First think step-by-step - describe your plan for what to build in pseudocode\n• think logically and accurately\n•Then output the code in a single code block",
-    "respond_to_all_channels": [1071975175802851461],
-    "main_channel": 1071975175802851461,
+    "respond_to_all_channels": [1090692702351397014],
+    "main_channel": 1090692702351397014,
     "experimental_channel": 1074443254398988288,
     "prompt_token_limit": 4096,
-    "experimental": true
+    "experimental": false
 }
