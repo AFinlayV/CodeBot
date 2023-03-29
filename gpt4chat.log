@@ -1,0 +1,110 @@
+2023-03-29 15:23:06,969 [INFO] Starting GPT4Chat...
+2023-03-29 15:23:06,970 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2023-03-29 15:23:06,970 [INFO] Loading config...
+2023-03-29 15:23:06,970 [INFO] gpt_chat_settings: {'temperature': 0.8, 'top_p': 1, 'max_tokens': 1024, 'frequency_penalty': 0, 'presence_penalty': 0}
+2023-03-29 15:23:06,970 [INFO] system_prompt: You are an AI programming assistant
+
+Important instructions:
+• Follow the user's requirements carefully & to the letter.
+• First think step-by-step - describe your plan for what to build in pseudocode
+• think logically and accurately
+•Then output the code in a single code block
+2023-03-29 15:23:06,970 [INFO] respond_to_all_channels: [1071975175802851461]
+2023-03-29 15:23:06,970 [INFO] main_channel: 1071975175802851461
+2023-03-29 15:23:06,970 [INFO] experimental_channel: 1074443254398988288
+2023-03-29 15:23:06,970 [INFO] prompt_token_limit: 4096
+2023-03-29 15:23:06,970 [INFO] experimental: True
+2023-03-29 15:23:06,970 [INFO] Getting number of tokens from messages...
+2023-03-29 15:23:07,081 [INFO] Loading recent memories...
+2023-03-29 15:23:07,081 [INFO] Using experimental mode. 1074443254398988288
+2023-03-29 15:23:07,081 [WARNING] Experimental mode is enabled. This is not recommended for production use. Token:MTA3N...0gRDk
+2023-03-29 15:23:07,081 [INFO] logging in using static token
+2023-03-29 15:23:47,359 [INFO] Starting GPT4Chat...
+2023-03-29 15:23:47,359 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2023-03-29 15:23:47,359 [INFO] Loading config...
+2023-03-29 15:23:47,359 [INFO] gpt_chat_settings: {'temperature': 0.8, 'top_p': 1, 'max_tokens': 1024, 'frequency_penalty': 0, 'presence_penalty': 0}
+2023-03-29 15:23:47,359 [INFO] system_prompt: You are an AI programming assistant
+
+Important instructions:
+• Follow the user's requirements carefully & to the letter.
+• First think step-by-step - describe your plan for what to build in pseudocode
+• think logically and accurately
+•Then output the code in a single code block
+2023-03-29 15:23:47,360 [INFO] respond_to_all_channels: [1071975175802851461]
+2023-03-29 15:23:47,360 [INFO] main_channel: 1071975175802851461
+2023-03-29 15:23:47,360 [INFO] experimental_channel: 1074443254398988288
+2023-03-29 15:23:47,360 [INFO] prompt_token_limit: 4096
+2023-03-29 15:23:47,360 [INFO] experimental: True
+2023-03-29 15:23:47,360 [INFO] Getting number of tokens from messages...
+2023-03-29 15:23:47,468 [INFO] Loading recent memories...
+2023-03-29 15:23:47,469 [INFO] Using experimental mode. 1074443254398988288
+2023-03-29 15:23:47,469 [WARNING] Experimental mode is enabled. This is not recommended for production use. Token:MTA3N...0gRDk
+2023-03-29 15:23:47,469 [INFO] logging in using static token
+2023-03-29 15:24:54,995 [INFO] Starting GPT4Chat...
+2023-03-29 15:24:54,996 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2023-03-29 15:24:54,996 [INFO] Loading config...
+2023-03-29 15:24:54,996 [INFO] gpt_chat_settings: {'temperature': 0.8, 'top_p': 1, 'max_tokens': 1024, 'frequency_penalty': 0, 'presence_penalty': 0}
+2023-03-29 15:24:54,996 [INFO] system_prompt: You are an AI programming assistant
+
+Important instructions:
+• Follow the user's requirements carefully & to the letter.
+• First think step-by-step - describe your plan for what to build in pseudocode
+• think logically and accurately
+•Then output the code in a single code block
+2023-03-29 15:24:54,996 [INFO] respond_to_all_channels: [1071975175802851461]
+2023-03-29 15:24:54,996 [INFO] main_channel: 1071975175802851461
+2023-03-29 15:24:54,996 [INFO] experimental_channel: 1074443254398988288
+2023-03-29 15:24:54,996 [INFO] prompt_token_limit: 4096
+2023-03-29 15:24:54,996 [INFO] experimental: True
+2023-03-29 15:24:54,996 [INFO] Getting number of tokens from messages...
+2023-03-29 15:24:55,165 [INFO] Loading recent memories...
+2023-03-29 15:24:55,165 [INFO] Using experimental mode. 1074443254398988288
+2023-03-29 15:24:55,166 [WARNING] Experimental mode is enabled. This is not recommended for production use. Token:MTA3N...0gRDk
+2023-03-29 15:24:55,166 [INFO] logging in using static token
+2023-03-29 15:24:55,676 [INFO] Shard ID None has connected to Gateway (Session ID: 082f5d2b4d6ecaa81c59e6f3a055b3a6).
+2023-03-29 15:25:21,374 [INFO] Message: still there with the new repo?
+2023-03-29 15:25:21,375 [INFO] Getting GPT response...
+2023-03-29 15:25:21,375 [INFO] Updating conversation memory...
+2023-03-29 15:25:21,375 [INFO] Saving message to log...
+2023-03-29 15:25:21,376 [INFO] Prompt:
+2023-03-29 15:25:21,376 [INFO] model: gpt-4
+2023-03-29 15:25:21,376 [INFO] messages: [{'role': 'system', 'content': "You are an AI programming assistant\n\nImportant instructions:\n• Follow the user's requirements carefully & to the letter.\n• First think step-by-step - describe your plan for what to build in pseudocode\n• think logically and accurately\n•Then output the code in a single code block"}, {'role': 'user', 'content': 'still there with the new repo?'}]
+2023-03-29 15:25:21,377 [INFO] temperature: 0.8
+2023-03-29 15:25:21,377 [INFO] top_p: 1
+2023-03-29 15:25:21,378 [INFO] max_tokens: 1024
+2023-03-29 15:25:21,378 [INFO] frequency_penalty: 0
+2023-03-29 15:25:21,378 [INFO] presence_penalty: 0
+2023-03-29 15:25:21,378 [INFO] system: You are an AI programming assistant
+
+Important instructions:
+• Follow the user's requirements carefully & to the letter.
+• First think step-by-step - describe your plan for what to build in pseudocode
+• think logically and accurately
+•Then output the code in a single code block
+2023-03-29 15:25:21,378 [INFO] user: still there with the new repo?
+2023-03-29 15:25:30,146 [INFO] Updating conversation memory...
+2023-03-29 15:25:30,146 [INFO] Saving message to log...
+2023-03-29 15:26:07,232 [INFO] Message: make an api interface for a web service that encrypts data by a user provided password
+2023-03-29 15:26:07,237 [INFO] Getting GPT response...
+2023-03-29 15:26:07,237 [INFO] Updating conversation memory...
+2023-03-29 15:26:07,237 [INFO] Saving message to log...
+2023-03-29 15:26:07,238 [INFO] Prompt:
+2023-03-29 15:26:07,238 [INFO] model: gpt-4
+2023-03-29 15:26:07,238 [INFO] messages: [{'role': 'system', 'content': "You are an AI programming assistant\n\nImportant instructions:\n• Follow the user's requirements carefully & to the letter.\n• First think step-by-step - describe your plan for what to build in pseudocode\n• think logically and accurately\n•Then output the code in a single code block"}, {'role': 'user', 'content': 'still there with the new repo?'}, {'role': 'assistant', 'content': "It seems that you are asking about a new repository, but you haven't provided any specific requirements or details for the task you'd like me to perform. Please provide more information or specific requirements for the task or code you'd like me to create."}, {'role': 'user', 'content': 'make an api interface for a web service that encrypts data by a user provided password'}]
+2023-03-29 15:26:07,239 [INFO] temperature: 0.8
+2023-03-29 15:26:07,239 [INFO] top_p: 1
+2023-03-29 15:26:07,239 [INFO] max_tokens: 1024
+2023-03-29 15:26:07,239 [INFO] frequency_penalty: 0
+2023-03-29 15:26:07,239 [INFO] presence_penalty: 0
+2023-03-29 15:26:07,239 [INFO] system: You are an AI programming assistant
+
+Important instructions:
+• Follow the user's requirements carefully & to the letter.
+• First think step-by-step - describe your plan for what to build in pseudocode
+• think logically and accurately
+•Then output the code in a single code block
+2023-03-29 15:26:07,239 [INFO] user: still there with the new repo?
+2023-03-29 15:26:07,239 [INFO] assistant: It seems that you are asking about a new repository, but you haven't provided any specific requirements or details for the task you'd like me to perform. Please provide more information or specific requirements for the task or code you'd like me to create.
+2023-03-29 15:26:07,239 [INFO] user: make an api interface for a web service that encrypts data by a user provided password
+2023-03-29 15:27:13,989 [INFO] Updating conversation memory...
+2023-03-29 15:27:13,993 [INFO] Saving message to log...
